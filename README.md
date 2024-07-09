@@ -36,13 +36,17 @@ bot.run("MjU3NTEzNDY1Mzk2ODYxNTc5.XzmDDf.FwroWLrnjuQAUQvtN2PIIHB5hoi")
 
 **1.點擊此區**
 
-<img width="266" alt="image" src="https://github.com/catchen541/discordpy-simple-bot/assets/131455122/fb674939-90da-4b4c-a1a2-2fdab874c969">
+<img width="266" alt="image" src="https://github.com/catchen541/discordpy-simple-bot/assets/131455122/fb674939-90da-4b4c-a1a2-2fdab874c969"><br/>
 
 
 **2.開啟三個按鈕**
-<img width="628" alt="image" src="https://github.com/catchen541/discordpy-simple-bot/assets/131455122/a2ead4bb-d023-4870-9e2a-7142c4b1d01d">
+<img width="628" alt="image" src="https://github.com/catchen541/discordpy-simple-bot/assets/131455122/a2ead4bb-d023-4870-9e2a-7142c4b1d01d"><br/>
 
 **3.啟動機器人即可**
+
+```bash
+python bot.py
+```
 
 ## 大致上運作原理
 
