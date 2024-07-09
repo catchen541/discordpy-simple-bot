@@ -2,7 +2,7 @@
 
 這個檔案可以讓機器人擁有回文指令和斜線指令並且只需單一python檔案
 
-=====================================================================
+**==========================================================**
 
 檔案中的TOKEN需換成自己的，請至[Discord Developer Portal](https://discord.com/developers/applications)取得
 
@@ -77,3 +77,8 @@ async def slash_test_1(interaction: discord.Interaction):
 ```py
 bot.run("TOKEN")
 ```
+
+**若只是想要使用機器人可以進入我的Discord伺服器並邀請機器人:
+https://discord.gg/2hMVBxuBrQ
+小喵喵機器人邀請:
+https://discord.com/oauth2/authorize?client_id=1144161789832069141**
