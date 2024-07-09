@@ -3,6 +3,7 @@
 這個檔案可以讓機器人擁有回文指令和斜線指令並且只需單一python檔案
 
 <hr>
+
 檔案中的TOKEN需換成自己的，請至[Discord Developer Portal](https://discord.com/developers/applications)取得
 
 ```bash
