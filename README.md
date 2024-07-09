@@ -78,7 +78,9 @@ async def slash_test_1(interaction: discord.Interaction):
 bot.run("TOKEN")
 ```
 
+
 **若只是想要使用機器人可以進入我的Discord伺服器並邀請機器人:
-https://discord.gg/2hMVBxuBrQ
-小喵喵機器人邀請:
+https://discord.gg/2hMVBxuBrQ**
+
+**小喵喵機器人邀請:
 https://discord.com/oauth2/authorize?client_id=1144161789832069141**
