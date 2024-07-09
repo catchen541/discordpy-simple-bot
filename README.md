@@ -9,14 +9,16 @@
 替換方法如下:
 ```py
 # 最後一行
-bot.run("TOKEN")```
+bot.run("TOKEN")
+```
 
 將TOKEN換成自己的，例如:
 
 我的TOKEN是 MjU3NTEzNDY1Mzk2ODYxNTc5.XzmDDf.FwroWLrnjuQAUQvtN2PIIHB5hoi
 ```py
 # 最後一行
-bot.run("MjU3NTEzNDY1Mzk2ODYxNTc5.XzmDDf.FwroWLrnjuQAUQvtN2PIIHB5hoi")```
+bot.run("MjU3NTEzNDY1Mzk2ODYxNTc5.XzmDDf.FwroWLrnjuQAUQvtN2PIIHB5hoi")
+```
 
 也需要在[Discord Developer Portal](https://discord.com/developers/applications)操作以下步驟
 
