@@ -2,11 +2,13 @@
 
 這個檔案可以讓機器人擁有回文指令和斜線指令並且只需單一python檔案
 
-1.[運作說明](#大致上運作原理)
-
-2.[現成機器人](#機器人/伺服器)
+> 1.[使用說明](##使用說明)<br/>
+> 2.[運作說明](##大致上運作原理)<br/>
+> 3.[現成機器人](##機器人/伺服器)<br/>
 
 <hr>
+
+## 使用說明
 
 檔案中的TOKEN需換成自己的，請至[Discord Developer Portal](https://discord.com/developers/applications)取得
 
@@ -41,7 +43,7 @@ bot.run("MjU3NTEzNDY1Mzk2ODYxNTc5.XzmDDf.FwroWLrnjuQAUQvtN2PIIHB5hoi")
 
 **3.啟動機器人即可**
 
-# 大致上運作原理
+## 大致上運作原理
 
 *導入所需模組*
 ```py
