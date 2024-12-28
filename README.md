@@ -1,5 +1,8 @@
 # 使用Discord.py製作一隻簡易的機器人
 
+[![Python3](https://img.shields.io/badge/python-3.11-blue.svg)](https://github.com/catchen541/Token-Generater)
+[![Discord Server](https://img.shields.io/badge/Support-Discord%20Server-blue.svg)](https://discord.gg/2hMVBxuBrQ)
+
 這個檔案可以讓機器人擁有回文指令和斜線指令並且只需單一Python檔案
 
 > ## 文章目錄<br/>
